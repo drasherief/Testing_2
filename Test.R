@@ -1,1 +1,1 @@
-Print ("Just a wee rehearsal")
+Print("Just a wee rehearsal")
